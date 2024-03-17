@@ -16,3 +16,6 @@ def untilARepeat(high):
 
 # Test the function
 print(untilARepeat(99))  # Example usage with high=99
+#The largest class size where no two persons have the same birthdate is 365 if there are 365 pupils in the class, each of whom was born on a different day of the year.
+#The smallest class size that can exist and still have at least one pair of students with the same birthday is two students.
+#The birthday paradox provides a non-linear explanation for the difference between the greatest and smallest class sizes and the average class size, which is usually approximately 23. According to the birthday paradox, there is a larger than 50% chance that at least two individuals in a group of twenty-three have the same birthday. The higher the group size, the faster this likelihood rises. It's not immediately obvious how many people are needed to have a 50% chance of having a birthday though.
